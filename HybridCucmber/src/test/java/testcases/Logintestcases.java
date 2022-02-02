@@ -29,7 +29,8 @@ public class Logintestcases extends Libraryclass {
 	public void teardown() throws IOException
 	{
 	 selenium=new Seleniumutility(driver);
-		selenium.screenshot("C:\\Users\\Dell\\eclipse-workspace\\Shobiyaselenium\\src\\test\\resources\\Screenshots\\Login.png");
+		selenium.screenshot("C:\\Users\\HP\\git\\Hybrid-Cucumber\\HybridCucmber\\src\\test\\resources\\Screenshots\\Login.png");
+		closeapp();
 	}
 }
 
