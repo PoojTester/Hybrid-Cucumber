@@ -1,0 +1,7 @@
+2022-02-04 17:13:58,905  INFO [main] Libraryclass:45 - *******Starting with Browser Set Up*********
+2022-02-04 17:14:05,673  INFO [main] Libraryclass:84 - Launched the cucumber Application
+2022-02-04 17:14:05,674  INFO [main] Libraryclass:18 - ******************Browser launch************************
+2022-02-04 17:14:05,902  INFO [main] Libraryclass:27 - ******************Enter username and password************************
+2022-02-04 17:14:07,158  INFO [main] Libraryclass:35 - ******************Click submit button************************
+2022-02-04 17:14:07,554  INFO [main] Libraryclass:44 - ******************Taking screenshot************************
+2022-02-04 17:14:09,450  INFO [main] Libraryclass:89 - Exiting the application and closing the browser
