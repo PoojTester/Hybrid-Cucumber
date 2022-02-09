@@ -12,6 +12,7 @@ import org.openqa.selenium.support.ui.Select;
 
 import baseclass.Libraryclass;
 public class Seleniumutility extends Libraryclass {
+	@SuppressWarnings("static-access")
 	public Seleniumutility(WebDriver driver)
 	{
 		this.driver=driver;
