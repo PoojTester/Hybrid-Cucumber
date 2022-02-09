@@ -1,4 +1,4 @@
-Feature: To test the orangehrm application
+Feature: To test the Orange application
 
 Scenario Outline:
 Given To launch the application and navigate to url
